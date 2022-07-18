@@ -1,0 +1,32 @@
+.a1{
+    
+    background-color:#29F7F1;
+    text-align: center;
+    font-weight: 400;
+    padding: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.a2{
+    left:300px;
+    background-color:#dbd179;
+    text-align: center;
+    font-weight: 400;
+    padding: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.a3{
+   
+    font-size: 20px;
+    color: blue;
+   
+}
+
+.d1{
+    position: absolute;
+    top:130px;
+    left:500px;
+    background-color: #dbd179;
+}
